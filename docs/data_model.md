@@ -114,7 +114,8 @@ This database contains sales transaction data from an online grocery delivery pl
 ---
 
 ## Data Source
-- **Source:** Supabase PostgreSQL
-- **Project:** Blinkit Sales Project
+- **Source:** Supabase PostgreSQL (https://supabase.com/dashboard/project/khcnudaxsvauxbirokmo)
+- **dbdoc.io:** https://dbdocs.io/itmitev/blinkit_sales_project?schema=public&view=relationships&table=customers
+- **Project:** Blinkit Sales Project (Notion page link)
 - **Last updated:** 2026-03-27
 
