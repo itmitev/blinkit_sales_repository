@@ -1,4 +1,4 @@
-markdown# Database Model
+# Database Model
 
 ## Overview
 This database contains sales transaction data from an online grocery delivery platform. It provides valuable insights into customer purchasing behavior, product demand, revenue trends, and sales performance over time.
