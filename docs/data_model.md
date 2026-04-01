@@ -45,7 +45,6 @@ This database contains sales transaction data from an online grocery delivery pl
 | order_id               | bigint                   | YES         | —             |
 | product_id             | bigint                   | YES         | —             |
 | quantity               | bigint                   | YES         | —             |
-| unit_price             | double precision         | YES         | —             |
 
 ---
 
