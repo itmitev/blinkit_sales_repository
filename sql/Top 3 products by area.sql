@@ -4,7 +4,7 @@ with
       c.area,
       p.product_name,
       sum(
-        coalesce(oi.quantity, 0) * coalesce(oi.unit_price, 0)
+        coalesce(oi.quantity, 0) * coalesce(p.price, 0)
       ) as revenue
     from
       customers c
