@@ -33,7 +33,6 @@ This database contains sales transaction data from an online grocery delivery pl
 | promised_delivery_time | timestamp with time zone | YES         | —             |
 | actual_delivery_time   | timestamp with time zone | YES         | —             |
 | delivery_status        | text                     | YES         | —             |
-| order_total            | double precision         | YES         | —             |
 | payment_method         | text                     | YES         | —             |
 | delivery_partner_id    | bigint                   | YES         | —             |
 | store_id               | bigint                   | YES         | —             |
@@ -58,7 +57,6 @@ This database contains sales transaction data from an online grocery delivery pl
 | category               | text                     | YES         | —             |
 | brand                  | text                     | YES         | —             |
 | price                  | double precision         | YES         | —             |
-| mrp                    | double precision         | YES         | —             |
 | margin_percentage      | double precision         | YES         | —             |
 | shelf_life_days        | bigint                   | YES         | —             |
 | min_stock_level        | bigint                   | YES         | —             |
@@ -117,5 +115,5 @@ This database contains sales transaction data from an online grocery delivery pl
 - **Source:** Supabase PostgreSQL (https://supabase.com/dashboard/project/khcnudaxsvauxbirokmo)
 - **dbdocs.io:** https://dbdocs.io/itmitev/blinkit_sales_project?schema=public&view=relationships&table=customers
 - **Project:** Blinkit Sales Project (Notion page link)
-- **Last updated:** 2026-03-27
+- **Last updated:** 2026-04-01
 
