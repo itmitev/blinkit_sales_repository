@@ -1,4 +1,4 @@
-# Marketing mix & campaign ROAS attribution - Blinkit Sales Project (WIP)
+## Marketing mix & campaign ROAS attribution - Blinkit Sales Project (WIP)
 
 - Dataset source (synthetic): https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset
 - What business question the project answers: which marketing channels are actually driving revenue, and how should we reallocate budget?
